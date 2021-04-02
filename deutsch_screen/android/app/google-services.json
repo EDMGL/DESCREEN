@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "53314093614",
+    "project_id": "deutschscreen",
+    "storage_bucket": "deutschscreen.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:53314093614:android:ac9da8ef91eea9f25115bf",
+        "android_client_info": {
+          "package_name": "com.example.deutsch_screen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "53314093614-g5017no4lsj7omfhieiusa75g9ae733s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDC8y7eZEUSX57H0h0MVmUn5EPXiIa3LS8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "53314093614-g5017no4lsj7omfhieiusa75g9ae733s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
